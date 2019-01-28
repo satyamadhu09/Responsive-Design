@@ -14,3 +14,8 @@ The main HTML file used to show the layout of the website.
 
 All the code about the design is written in the HTML file. The CSS styles are also applied to make the website more attractive to look
 
+It is necessary for a website to look fresh and attractive to the user. So, it contains a logo that defines whose the website is.
+
+### Run the project
+
+This project can run in any browser by opening the Response.html file.
